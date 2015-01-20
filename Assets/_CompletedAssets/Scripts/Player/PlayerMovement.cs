@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnitySampleAssets.CrossPlatformInput;
 
 namespace CompleteProject
 {
@@ -32,8 +31,8 @@ namespace CompleteProject
         void FixedUpdate ()
         {
             // Store the input axes.
-            float h = CrossPlatformInputManager.GetAxisRaw("Horizontal");
-            float v = CrossPlatformInputManager.GetAxisRaw("Vertical");
+            float h = Input.GetAxisRaw("Horizontal");
+            float v = Input.GetAxisRaw("Vertical");
 
             // Move the player around the scene.
             Move (h, v);
@@ -85,7 +84,7 @@ namespace CompleteProject
             }
 #else
 
-            Vector3 turnDir = new Vector3(CrossPlatformInputManager.GetAxisRaw("Mouse X") , 0f , CrossPlatformInputManager.GetAxisRaw("Mouse Y"));
+            Vector3 turnDir = new Vector3(Input.GetAxisRaw("Mouse X") , 0f , Input.GetAxisRaw("Mouse Y"));
 
             if (turnDir != Vector3.zero)
             {
