@@ -80,6 +80,7 @@
      <Compile Include="Assets\Cardboard\Scripts\SkyboxMesh.cs" />
      <Compile Include="Assets\Cardboard\Scripts\StereoController.cs" />
      <Compile Include="Assets\Cardboard\Scripts\StereoLensFlare.cs" />
+     <Compile Include="Assets\Scripts\SocketAdapter.cs" />
      <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\CactusPack\Shaders\VertexBlend.shader" />
      <None Include="Assets\CactusPack\Readme.txt" />
