@@ -10733,7 +10733,7 @@ RectTransform:
   m_RootOrder: 2
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 33.7999992, y: 35.0999985}
   m_SizeDelta: {x: -346, y: -218}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &1044129322
@@ -11856,7 +11856,7 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 110, y: 20}
+  m_AnchoredPosition: {x: 122.800003, y: 22}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &1244958985
@@ -11893,7 +11893,7 @@ MonoBehaviour:
     m_HighlightedTrigger: Highlighted
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 1408176331}
   m_HandleRect: {fileID: 0}
@@ -12848,7 +12848,7 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 1.10000002}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &1408176332
@@ -12863,7 +12863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: .95588237, g: .470912635, b: .470912635, a: 1}
+  m_Color: {r: .352941155, g: .101211056, b: .101211056, a: 1}
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -14551,13 +14551,13 @@ RectTransform:
   m_GameObject: {fileID: 1570384838}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: .200000003, y: .200000003, z: .200000003}
+  m_LocalScale: {x: .150000006, y: .150000006, z: .150000006}
   m_Children: []
   m_Father: {fileID: 1311114403}
   m_RootOrder: 1
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 20, y: 20}
+  m_AnchoredPosition: {x: 32.7999992, y: 22}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &1570384840
@@ -14572,8 +14572,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Sprite: {fileID: 21300000, guid: ac394e6e5080d754e8b437e5936fca3b, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: .862745106}
+  m_Sprite: {fileID: 21300000, guid: 603df70e8a7cc4654b29a7516b6b962e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
