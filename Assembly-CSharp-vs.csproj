@@ -56,7 +56,6 @@
      <Compile Include="Assets\Bunnies\Scripts\Player\PlayerHealth.cs" />
      <Compile Include="Assets\Bunnies\Scripts\Player\PlayerMovement.cs" />
      <Compile Include="Assets\Bunnies\Scripts\Player\PlayerShooting.cs" />
-     <Compile Include="Assets\Bunnies\_CompletedAssets\Scripts\Camera\CameraFollow.cs" />
      <Compile Include="Assets\Bunnies\_CompletedAssets\Scripts\Enemy\EnemyAttack.cs" />
      <Compile Include="Assets\Bunnies\_CompletedAssets\Scripts\Enemy\EnemyHealth.cs" />
      <Compile Include="Assets\Bunnies\_CompletedAssets\Scripts\Enemy\EnemyMovement.cs" />
